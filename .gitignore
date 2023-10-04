@@ -1,0 +1,6 @@
+# Ignore IDE specific files
+*.bak
+*.bak1
+*.bak2
+*.dwl
+*.dwl2
